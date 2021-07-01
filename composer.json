@@ -1,0 +1,13 @@
+{
+    "name": "abdel/php_mvc",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "router/"
+        }
+    },
+    "authors": [{
+        "name": "abakar",
+        "email": "abakar@exemple.com"
+    }],
+    "require": {}
+}
